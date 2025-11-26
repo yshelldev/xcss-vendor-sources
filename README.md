@@ -7,7 +7,7 @@ This repository serves as the master repository to manage vendor prefixes for XC
 If you are a vendor provider and want to have your vendor data set integrated, please follow these steps:
 
 1. **Clone the Template:**  
-   Clone the official template repository [`yshell-dev/xcss-vendor-template`](https://github.com/yshell-dev/xcss-vendor-template) to your own account and begin structuring your vendor data according to the guidelines below.
+   Clone the official template repository [`yshelldev/xcss-vendor-template`](https://github.com/yshelldev/xcss-vendor-template) to your own account and begin structuring your vendor data according to the guidelines below.
 
 2. **Create an Issue:**  
    Once your repository is ready, create a new issue in the main xcss-vendors repository with the following details:  
