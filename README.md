@@ -1,6 +1,6 @@
 # Xtatix Vendor Sources: Contributor Guide
 
-This repository serves as the master repository to manage vendor prefixes for XCSS.
+This repository serves as the master repository to manage vendor prefixes for Xtatix.
 
 ## 🤝 Contributions and Integration
 
