@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const SRC = "./src";
+const SRC = "./registary";
 const OUT = "./out";
 const SITE = "./site";
 
