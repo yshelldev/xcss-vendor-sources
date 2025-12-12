@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 const OUT = "./out";
-const SITE = "./website";
+const SITE = "./sitesrc";
 const REGISTRY = "./registry";
 
 /**
