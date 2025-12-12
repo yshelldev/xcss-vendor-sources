@@ -1,4 +1,4 @@
-# xcss-vendors: Contributor Guide
+# Xtatix Vendor Sources: Contributor Guide
 
 This repository serves as the master repository to manage vendor prefixes for XCSS.
 
@@ -7,10 +7,10 @@ This repository serves as the master repository to manage vendor prefixes for XC
 If you are a vendor provider and want to have your vendor data set integrated, please follow these steps:
 
 1. **Clone the Template:**  
-   Clone the official template repository [`yshelldev/xcss-vendor-template`](https://github.com/yshelldev/xcss-vendor-template) to your own account and begin structuring your vendor data according to the guidelines below.
+   Clone the official template repository [`xtatixone/vendor-template`](https://github.com/xtatixone/vendor-template) to your own account and begin structuring your vendor data according to the guidelines below.
 
 2. **Create an Issue:**  
-   Once your repository is ready, create a new issue in the main xcss-vendors repository with the following details:  
+   Once your repository is ready, create a new issue in the main vendor-sources repository with the following details:  
    - **Platform:** State the platform your contribution is for (e.g., browser by default).
    - **Vendor Prefix:** Specify the vendor prefix (e.g., `o`, `ms`, `moz`, `webkit`).
    - **Request:** Explicitly request that your new repository be added as a submodule.
@@ -19,7 +19,7 @@ If you are a vendor provider and want to have your vendor data set integrated, p
    Core maintainers will review your repository’s structure and content against the guidelines.
 
 4. **Submodule Addition:**  
-   Upon successful verification, your repository will be added as a submodule to xcss-vendors.
+   Upon successful verification, your repository will be added as a submodule to vendor-sources.
 
 ## ⚙️ Repository Structure and Data Guidelines
 
