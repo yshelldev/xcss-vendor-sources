@@ -1,9 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-const SRC = "./registary";
 const OUT = "./out";
-const SITE = "./site";
+const SITE = "./website";
+const REGISTRY = "./registry";
 
 /**
  * Clears the target directory and publishes the content of the fileMap into it.
@@ -221,7 +221,7 @@ function deepMerge(target, ...sources) {
 // --- Main Execution ---
 try {
     // Set the target directory path. Change 'my-config-folder' to your desired folder name.
-    const SRC_DIR = path.resolve(SRC);
+    const SRC_DIR = path.resolve(REGISTRY);
 
     if (!fs.existsSync(SRC_DIR)) {
         console.error(`Error: Directory not found at ${SRC_DIR}`);
