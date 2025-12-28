@@ -34,7 +34,7 @@ Your repository must comply with the following rules to ensure proper export and
    - **Year Folder Format:** Group all prefixes for a specific year within a folder named in `YYYY` format (e.g., `2024`, `2025`).
    - **Template:** Use the `.year` folder as a structural guide. When adding data for a new year, copy the `.year` folder and rename it to the appropriate four-digit year.
 
-## 🗂 Example Contributor Directory Structure
+### 🗂 Example Contributor Directory Structure
 
 Prefixes must be categorized by their CSS domain within each year’s folder:
 
