@@ -39,7 +39,6 @@ Your repository must comply with the following rules to ensure proper export and
 Prefixes must be categorized by their CSS domain within each year’s folder:
 
 ```
-
 /
 ├── 2024/
 │   ├── atrules.json
@@ -59,7 +58,6 @@ Prefixes must be categorized by their CSS domain within each year’s folder:
     ├── classes.json
     ├── elements.json
     └── values.json
-
 ```
 
 ## ⚖️ Licensing
